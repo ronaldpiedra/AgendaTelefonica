@@ -1,0 +1,14 @@
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\bin\Debug\net8.0\AgendaTelefonica.exe
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\bin\Debug\net8.0\AgendaTelefonica.deps.json
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\bin\Debug\net8.0\AgendaTelefonica.runtimeconfig.json
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\bin\Debug\net8.0\AgendaTelefonica.dll
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\bin\Debug\net8.0\AgendaTelefonica.pdb
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\obj\Debug\net8.0\AgendaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\obj\Debug\net8.0\AgendaTelefonica.AssemblyInfoInputs.cache
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\obj\Debug\net8.0\AgendaTelefonica.AssemblyInfo.cs
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\obj\Debug\net8.0\AgendaTelefonica.csproj.CoreCompileInputs.cache
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\obj\Debug\net8.0\AgendaTelefonica.dll
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\obj\Debug\net8.0\refint\AgendaTelefonica.dll
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\obj\Debug\net8.0\AgendaTelefonica.pdb
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\obj\Debug\net8.0\AgendaTelefonica.genruntimeconfig.cache
+E:\Don Bosco\Disco Sata\formador de formadores\UEA\programas de la universidad\programas en C#\AgendaTelefonica\obj\Debug\net8.0\ref\AgendaTelefonica.dll
